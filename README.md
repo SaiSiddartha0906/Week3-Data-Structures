@@ -12,8 +12,7 @@ Welcome to the repository for Week 3 of our Java learning journey. This week foc
   - [Day 5: Custom Exceptions](#day-5-custom-exceptions)
   - [Day 6: Practice Problems with Collections and Exceptions](#day-6-practice-problems-with-collections-and-exceptions)
 - [Prerequisites](#prerequisites)
-- [How to Use This Repository](#how-to-use-this-repository)
-- [Next Steps](#next-steps)
+
 
 ## 🧭 Overview
 This week emphasized mastering Java's commonly used data structures such as `ArrayList`, `HashSet`, and `HashMap`, while also introducing best practices for managing errors through exception handling. These are foundational concepts that prepare you to write robust, efficient, and maintainable Java code.
